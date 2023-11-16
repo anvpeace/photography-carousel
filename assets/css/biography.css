@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+    color: whitesmoke;
+}
+
+.content{
+    position: relative;
+    display: block;
+    justify-content: center;
+    text-align: center;
+    margin-top: 5%;
+}
+
+h1{
+    border: 15px;
+    margin-bottom: 25px;
+    font-size: 75px;
+}
+img{
+    border-radius: 50%;
+    width: 450px;
+    height: 450px;
+    margin-top: 2%;
+
+}
+
+p{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2%;
+    font-family: 'Oswald', sans-serif;
+}
