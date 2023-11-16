@@ -17,3 +17,15 @@ buttons.forEach(button => {
         delete activeSlide.dataset.active
     })
 })
+
+// const logo = document.getElementById("header-logo");
+$(document).ready(function(){
+    $("#header-img").on("click", function(){
+
+        console.log("working link");
+        
+        open("https://www.instagram.com/")
+    })
+})
+
+
